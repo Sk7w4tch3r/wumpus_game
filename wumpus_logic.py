@@ -1,5 +1,5 @@
 from wumpus_data import *
-
+  
 
 def cellContainsWumpus(data, x, y):
     if getWumpusPosition(data) == [x,y]:
